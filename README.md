@@ -1,7 +1,7 @@
 # Hi, I'm Harshdeep Kanhai👋
 ---
 
-- 🔭 I’m currently working on Bootstrap Project
+- 🔭 I’m currently working on React Projects
 - 🌱 I’m currently learning CSS Animations
 - 👯 I’m looking to collaborate on Front-end React or simple HTML,CSS and JS projects
 - 🤔 I’m looking for help with Docker commands
