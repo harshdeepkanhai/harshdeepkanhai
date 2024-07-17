@@ -1,14 +1,14 @@
 # Hi, I'm Harshdeep Kanhai👋
 ---
 
-- 🔭 I’m currently working on React Projects
-- 🌱 I’m currently learning CSS Animations
-- 👯 I’m looking to collaborate on Front-end React or simple HTML,CSS and JS projects
-- 🤔 I’m looking for help with Docker commands
-- 💬 Ask me about CSS Layouts or any Front-end design specifications
+- 🔭 I’m currently working as a Full-Stack Python Developer
+- 🌱 I’m currently learning Apache Airflow
+- 👯 I’m looking to collaborate on fun Open-Source projects
+- 🤔 I’m looking for Penetration Testing (Red Team) Entry Level Role
+- 💬 Ask me about API Design and CyberSecurity
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harshdeepkanhai/) 
-- 😄 Pronouns: He or simply address me as K (as it is easy to type)
-- ⚡ Fun fact: I like playing TEKKEN
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love to talk about R & D in all fields. I love Maths like Differentiation and Integration
 
 <!--
 **harshdeepkanhai/harshdeepkanhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
