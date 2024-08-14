@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a Full-Stack Python Developer
 - 🌱 I’m currently learning Apache Airflow
 - 👯 I’m looking to collaborate on fun Open-Source projects
-- 🤔 I’m looking for Penetration Testing (Red Team) Entry Level Role
+- 🤔 I’m looking for Penetration Testing (Red Team) Role
 - 💬 Ask me about API Design and CyberSecurity
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harshdeepkanhai/) 
 - 😄 Pronouns: He
