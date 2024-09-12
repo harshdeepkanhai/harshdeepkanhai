@@ -3,6 +3,7 @@
 I am a passionate Full Stack Python Developer and Data Engineer at Techstax, driven by a curiosity for technology and a love for learning My journey involves delving into the world of computer science, exploring new ideas, xploring datasets and making new pipelines.
 
 ![harshdeepkanhai's Stats](https://github-readme-stats.vercel.app/api?username=harshdeepkanhai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![harshdeepkanhai's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=harshdeepkanhai)
 ![harshdeepkanhai Leetcode's stats](https://leetcard.jacoblin.cool/harshdeepkanhai)
 
 ## 🚀 About Me
