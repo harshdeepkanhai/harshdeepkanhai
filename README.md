@@ -1,6 +1,6 @@
 # Hi, I'm HARSHDEEP KANHAI! 👋
 
-I am a passionate Full Stack Python Developer and Data Engineer at Techstax, driven by a curiosity for technology and a love for learning My journey involves delving into the world of computer science, exploring new ideas, xploring datasets and making new pipelines.
+I am a passionate Freelance Full Stack Software Engineer, Data Engineer, Penetration Tester and a Learner driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, exploiting vulnerabilities,exploring datasets and making new pipelines. I sometimes do CAD/CAM/CAE.
 
 ![harshdeepkanhai's Stats](https://github-readme-stats.vercel.app/api?username=harshdeepkanhai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![harshdeepkanhai's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=harshdeepkanhai)
@@ -8,21 +8,21 @@ I am a passionate Full Stack Python Developer and Data Engineer at Techstax, dri
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working as a Full-Stack Python Developer
-- 🌱 I’m currently learning Apache Airflow
+- 🔭 I’m currently working as a Full-Stack Software Engineer
+- 🌱 I’m currently learning VueJS and Go
 - 👯 I’m looking to collaborate on fun Open-Source projects
 - 🤔 I’m looking for Penetration Testing (Red Team) Role
 - 💬 Ask me about API Design and CyberSecurity
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harshdeepkanhai/) 
 - 😄 Pronouns: He
-- ⚡ Fun fact: I love discussing R&D in all fields. I love Maths like Differentiation and Integration
+- ⚡ Fun fact: I love discussing R&D in all fields. I love Maths like Differentiation and Integration, Physics, Forensic Science and Ballistics.
 
 <!--## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,python,flask,fastapi,postgresql,mongodb,aws,azure,arduino,arch,ubuntu,linux,matlab,vim,rust&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,py,flask,fastapi,django,go,ruby,rails,postgresql,mongodb,aws,azure,arduino,arch,ubuntu,linux,matlab,vim,rust,yarn,windows,vue,vscode,vite,vitest,vercel,threejs,tailwind,rabbitmq,prisma,pinia,nuxtjs,nodejs,npm,nginx,nextjs,netlify,mysql,materialui,md,latex,htmx,graphql,&theme=dark&perline=8)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -44,21 +44,6 @@ I am a passionate Full Stack Python Developer and Data Engineer at Techstax, dri
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
