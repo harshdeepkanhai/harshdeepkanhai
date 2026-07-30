@@ -22,7 +22,7 @@ I am a passionate Freelance Full Stack Software Engineer, Data Engineer, Penetra
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,py,flask,fastapi,django,go,ruby,rails,postgresql,mongodb,aws,azure,arduino,arch,ubuntu,linux,matlab,vim,rust,yarn,windows,vue,vscode,vite,vitest,vercel,threejs,tailwind,rabbitmq,prisma,pinia,nuxtjs,nodejs,npm,nginx,nextjs,netlify,mysql,materialui,md,latex,htmx,graphql,&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,py,flask,fastapi,django,go,ruby,rails,postgresql,mongodb,aws,azure,arduino,arch,ubuntu,linux,matlab,vim,rust,yarn,windows,vue,vscode,vite,vitest,vercel,threejs,tailwind,rabbitmq,prisma,pinia,nuxtjs,nodejs,npm,nginx,nextjs,netlify,mysql,materialui,md,r,latex,htmx,graphql,&theme=dark&perline=8)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
