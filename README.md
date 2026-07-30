@@ -2,8 +2,17 @@
 
 I am a passionate Freelance Full Stack Software Engineer, Data Engineer, Penetration Tester and a Learner driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, exploiting vulnerabilities,exploring datasets and making new pipelines. I sometimes do CAD/CAM/CAE.
 
-![harshdeepkanhai's Stats](https://github-readme-stats.vercel.app/api?username=harshdeepkanhai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![harshdeepkanhai's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=harshdeepkanhai)
+Some Jokes for you:
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia&hideBorder=true)
+
+[![harshdeepkanhai's Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=harshdeepkanhai&langs_count=8&theme=github_dark&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=harshdeepkanhai&langs_count=8&theme=github_dark&hide_border=true)
+
+[![harshdeepkanhai's GitHub stats](https://github-stats-extended.vercel.app/api?username=harshdeepkanhai&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)](https://github-stats-extended.vercel.app/api?username=harshdeepkanhai&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)
+
+[![harshdeepkanhai's Github Streaks](https://streak-stats.demolab.com?user=harshdeepkanhai&theme=github-dark-blue&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+
 ![harshdeepkanhai Leetcode's stats](https://leetcard.jacoblin.cool/harshdeepkanhai)
 
 ## 🚀 About Me
@@ -56,6 +65,9 @@ I am a passionate Freelance Full Stack Software Engineer, Data Engineer, Penetra
  ## 🏆 Achievements
 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open-source projects and celebrated the spirit of collaboration.
+
+Some Inspiration for you:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## 📬 Get in Touch
