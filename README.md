@@ -15,6 +15,8 @@ Some Jokes for you:
 
 ![harshdeepkanhai Leetcode's stats](https://leetcard.jacoblin.cool/harshdeepkanhai)
 
+[![Harsh's Exercism stats](https://exercism-badges.vercel.app/api?username=harshdeep-kanhai&theme=algolia&amount=20)](https://exercism.io/profiles/harshdeep-kanhai)
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working as a Full-Stack Software Engineer
