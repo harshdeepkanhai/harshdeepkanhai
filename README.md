@@ -22,7 +22,27 @@ I am a passionate Freelance Full Stack Software Engineer, Data Engineer, Penetra
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,py,flask,fastapi,django,go,ruby,rails,postgresql,mongodb,aws,azure,arduino,arch,ubuntu,linux,matlab,vim,rust,yarn,windows,vue,vscode,vite,vitest,vercel,threejs,tailwind,rabbitmq,prisma,pinia,nuxtjs,nodejs,npm,nginx,nextjs,netlify,mysql,materialui,md,r,latex,htmx,graphql,&theme=dark&perline=8)](https://skillicons.dev)
+
+### 🧠 Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,py,go,ruby,rust,r,matlab&theme=dark&perline=8)](https://skillicons.dev)
+
+### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,redux,vue,pinia,nextjs,nuxtjs,threejs,tailwind,materialui,htmx&theme=dark&perline=6)](https://skillicons.dev)
+
+### ⚙️ Backend & APIs
+[![Backend](https://skillicons.dev/icons?i=nodejs,django,flask,fastapi,rails,graphql,prisma,rabbitmq,nginx&theme=dark&perline=5)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark&perline=3)](https://skillicons.dev)
+
+### ☁️ Cloud & Deployment
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,vercel,netlify&theme=dark&perline=4)](https://skillicons.dev)
+
+### 💻 Systems & Hardware
+[![Systems](https://skillicons.dev/icons?i=linux,ubuntu,arch,windows,arduino&theme=dark&perline=5)](https://skillicons.dev)
+
+### 🛠️ Tooling & Editors
+[![Tooling](https://skillicons.dev/icons?i=vim,vscode,npm,yarn,vite,vitest,md,latex&theme=dark&perline=8)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
