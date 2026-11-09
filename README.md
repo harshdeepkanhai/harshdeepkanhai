@@ -19,15 +19,15 @@ Some Jokes for you:
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working as a Full-Stack Software Engineer
-- 🌱 I’m currently learning VueJS and Go
+- 🔭 I’m currently working as a Freelance Engineer (Principal/Architect)
+- 🌱 I’m currently learning [SECRET] (topic is multidisciplinary and too much advanced above post doctoral level, thats all i can say)
 - 👯 I’m looking to collaborate on fun Open-Source projects
-- 🤔 I’m looking for Penetration Testing (Red Team) Role
-- 💬 Ask me about API Design and CyberSecurity
+- 🤔 I’m looking for Disruptive Ideas to Work on.
+- 💬 Ask me about Engineering(Mechanical, Manufacturing, Industrial, Electronics, Computer Science), Philosophy, Political Science, History, Law, Geography, Anthropology, OR, Literature. Calisthenics, Yoga, Martial Arts(Muay Thai), API Design and CyberSecurity
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harshdeepkanhai/) 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love discussing R&D in all fields. I love Maths like Differentiation and Integration, Physics, Forensic Science and Ballistics.
-
+-  Also, I like to replace all proprietary software that I regularly use with Open Source Software Like (MS OFFICE/ Apple Office Suite -> Libre Office/ Collabora), (MATLAB -> Octave) more are on thw way.
 <!--## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 -->
