@@ -1,6 +1,6 @@
 # Hi, I'm HARSHDEEP KANHAI! 👋
 
-I am a passionate Freelance Full Stack Software Engineer, Data Engineer, Penetration Tester and a Learner driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, exploiting vulnerabilities,exploring datasets and making new pipelines. I sometimes do CAD/CAM/CAE.
+I am a passionate Freelance Software Engineer, MLOps/AIOPs/DataOps, Platform Engineer ,Data Engineer, Penetration Tester and a Learner driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, exploiting vulnerabilities, exploring datasets and making new pipelines. I sometimes do CAD/CAM/CAE.
 
 Some Jokes for you:
 <!-- Markdown -->
@@ -35,7 +35,7 @@ Some Jokes for you:
 ## Tech Stack
 
 ### 🧠 Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,py,go,ruby,rust,r,matlab&theme=dark&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,py,go,ruby,rust,r,matlab,octave&theme=dark&perline=8)](https://skillicons.dev)
 
 ### 🎨 Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,redux,vue,pinia,nextjs,nuxtjs,threejs,tailwind,materialui,htmx&theme=dark&perline=6)](https://skillicons.dev)
